@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="lib" path="/swipe/libs/gdx.jar" sourcepath="/swipe/libs/gdx-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/gdx-backend-android.jar" sourcepath="libs/gdx-backend-android-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="sdeck-1.0.jar"/>
+	<classpathentry kind="lib" path="s3d.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="swipesrc"/>
+	<classpathentry kind="src" path="frameworksrc"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
